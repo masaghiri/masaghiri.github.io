@@ -120,8 +120,14 @@ section {
 #bio {
     text-align: justify;
 }
-.just{
+
+.just {
     text-align: justify;
+}
+
+.CENy8b {
+    border-radius: 20px;
+    width: 350px;
 }
 
 .list-items {
