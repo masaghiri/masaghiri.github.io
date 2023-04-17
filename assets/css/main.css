@@ -113,8 +113,9 @@ section {
 }
 
 #subtitle {
-    padding: 55px 0;
-    font-size: 25px !important;
+    padding: 34px 0;
+    font-size: 16px !important;
+    line-height: 1.3;
 }
 
 #bio {
@@ -123,6 +124,27 @@ section {
 
 .just {
     text-align: justify;
+}
+
+#eng {
+    font-size: 16px !important;
+}
+
+#txt {
+    font-size: 13px !important;
+    text-align: justify;
+    width: 500px;
+    line-height: 1.5;
+    top: 143px !important;
+}
+
+#container {
+    display: inline-block;
+}
+
+.logo {
+    width: 100px;
+    padding: 0 10px;
 }
 
 .CENy8b {
@@ -1344,7 +1366,7 @@ ol.default li {
     }
 
     h1 {
-        font-size: 2.4em;
+        font-size: 1.3em;
         letter-spacing: -0.015em;
     }
 
@@ -1586,14 +1608,14 @@ ol.default li {
     #me header>h1 {
         position: absolute;
         left: 0;
-        bottom: 52.5%;
+        bottom: 85.5%;
         margin: 0;
     }
 
     #me header>p {
         position: absolute;
         left: 0;
-        top: 52.5%;
+        top: 15%;
         font-size: 1.5em;
         letter-spacing: -0.015em;
         margin-top: 0;
@@ -1623,7 +1645,7 @@ ol.default li {
 
     h1,
     h2 {
-        font-size: 1.75em;
+        font-size: 1.3em;
         letter-spacing: -0.025em;
     }
 
@@ -1735,7 +1757,7 @@ ol.default li {
     }
 
     #me header>h1 {
-        font-size: 2.15em;
+        font-size: 1.3em;
         letter-spacing: -0.025em;
     }
 
