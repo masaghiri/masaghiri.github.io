@@ -972,7 +972,9 @@ h4,
 h5,
 h6 {
     font-weight: 400;
-    color: #363636;
+    background: -webkit-linear-gradient(#083974, #41087e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 blockquote {
