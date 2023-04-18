@@ -136,6 +136,10 @@ section {
     width: 500px;
     line-height: 1.5;
     top: 143px !important;
+    background: -webkit-linear-gradient(#083974, #41087e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
 }
 
 #container {
