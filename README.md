@@ -1,9 +1,7 @@
-# Bienvenue, Willkommen,Benvenuto 
+# masaghiri.github.io
 
-Dr. Mohammad Ali Saghiri is a highly qualified and experienced researcher in the field of dental biomaterials. He has a PhD in Dental Materials from Isfahan University of Medical Sciences in Iran and has completed postdoctoral research at a number of prestigious institutions, including Rutgers University and the University of Michigan.
+Source for the personal academic website of **M. Ali Saghiri, MS, PhD**, Associate Professor, Department of Restorative Dentistry, Rutgers School of Dental Medicine.
 
-Dr. Saghiri has a strong publication record, with numerous articles published in peer-reviewed scientific journals, as well as book chapters and conference proceedings. His research interests include the development of novel dental biomaterials, the study of their physical and mechanical properties, and their clinical applications.
+Live site: <https://masaghiri.github.io>
 
-In addition to his research work, Dr. Saghiri is also an experienced educator, having taught courses in dental materials science and related subjects at several universities. He has also been involved in a number of professional organizations, including serving as the Secretary-General of the Iranian Association of Dental Research from 2012 to 2016.
-
-Overall, Dr. Mohammad Ali Saghiri appears to be a highly accomplished and respected researcher in the field of dental biomaterials, with a strong record of research and publication, as well as experience in teaching and professional service.
+The site is a single static page (`index.html`) with no build step. Edit `index.html` and push to `main`; GitHub Pages publishes the change.
